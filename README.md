@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/23555983/121902891-b5789600-cd62-11eb-82dd-be4b46ae05f7.png)
+
 # Attracting Contributors -Font-
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
