@@ -39,6 +39,7 @@ Please list them!
 - Yu Gothic
 - URW Nimbus
 - Liberation Sans
+- Arial
 - Helvetica
 - POP
 - Genkai Mincho
