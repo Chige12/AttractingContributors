@@ -39,6 +39,7 @@ Please list them!
 - Yu Gothic
 - URW Nimbus
 - Liberation Sans
+- HG創英角ポップ体
 - Arial
 - Helvetica
 - POP
